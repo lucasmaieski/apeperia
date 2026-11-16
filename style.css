@@ -659,3 +659,16 @@ main {
 .rodape-social-link--instagram {
   background-image: url(instagram.png);
 }
+.rodape-nav-item {
+  display: inline-block;
+  margin: 0 8px;
+}
+.rodape-nav-link {
+  color: #fff;
+  text-decoration: none;
+  line-height: 3;
+}
+.rodape-nav-link:hover,
+.rodape-nav-link:focus {
+  text-decoration: underline;
+}
