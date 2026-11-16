@@ -650,3 +650,12 @@ main {
   border: 0;
   display: block;
 }
+.rodape-social-link--facebook {
+  background-image: url(facebook.png);
+}
+.rodape-social-link--twitter {
+  background-image: url(twitter.png);
+}
+.rodape-social-link--instagram {
+  background-image: url(instagram.png);
+}
